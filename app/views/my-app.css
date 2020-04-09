@@ -94,8 +94,8 @@
       }
 
       .TodoItem-delete>img{
-        max-width:40px;
-        max-height:40px;
+        max-width:20px;
+        max-height:20px;
       }
 
       .TodoItem-delete{
